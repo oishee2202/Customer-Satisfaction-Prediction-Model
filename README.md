@@ -5,7 +5,7 @@ This repository stores the files for a project undertaken for the course ISSS610
 It is a prototype of a Customer Satisfaction Prediction model built for Airbnb London. The aim of the project is to identify significant features that impact customer ratings of Airbnb using several classification models, by evaluating the best model which is able to predict the  customer rating most accurately. This evaluation has been done by using ROC curve metrics and accuracy and finally to base business recommendations using those identifies factors.
 
 ## Data Sources
-Listing Data and Reviews Data to be downloaded from the InsideAirbnb website: http://insideairbnb.com/get-the-data.html
+Listing Data and Reviews Data to be downloaded from the InsideAirbnb website: http://insideairbnb.com/get-the-data.html.
 Rest of the data sources as used in the Python notebooks are under the Folder named as Data. 
 
 ## Setup
